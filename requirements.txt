@@ -5,3 +5,7 @@ pandas
 scikit-learn
 nltk
 spacy
+flask
+gunicorn
+spacy
+en-core-web-sm
